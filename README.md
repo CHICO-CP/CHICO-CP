@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Ghost Developer" />
+ <img src="https://github.com/CHICO-CP.png" width="150" height="150" style="border-radius: 50%;" align="center" alt="Ghost Developer" />
  <h2 align="center">🚀 Ghost Developer - Full Stack Developer</h2>
  <p align="center">Developer specialized in innovative solutions with modern technologies</p>
 </p>
