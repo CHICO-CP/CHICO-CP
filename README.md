@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/Gh0stDeveloper.png" width="150" alt="Ghost Developer" />
+<img src="https://github.com/Gh0stDeveloper.png" width="150" alt="Ghost Developer profile image" />
 
 # Ghost Developer
 
-### Pedro Avendaño · Full Stack & Android Developer
+### Full Stack, Android & Automation Developer
 
-Desarrollador independiente de México enfocado en crear aplicaciones Android nativas, plataformas full stack, APIs, automatizaciones y herramientas técnicas con arquitecturas mantenibles.
+Independent software developer focused on native Android applications, full-stack platforms, APIs, infrastructure automation, and maintainable technical systems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-@Gh0stDeveloper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gh0stDeveloper)
 [![Telegram](https://img.shields.io/badge/Telegram-@Gh0stDeveloper-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gh0stDeveloper)
@@ -16,35 +16,51 @@ Desarrollador independiente de México enfocado en crear aplicaciones Android na
 
 ---
 
-## Sobre mí
+## About Me
 
-- Desarrollo productos completos: aplicación, backend, API, almacenamiento, autenticación, automatización y despliegue.
-- Mi trabajo principal está centrado en **Android con Kotlin y Jetpack Compose**, además de plataformas web modernas con **TypeScript, React, Next.js y Node.js**.
-- Construyo experiencias multimedia, herramientas de productividad, sistemas de actualización, bots de Telegram y utilidades de seguridad para entornos autorizados.
-- Priorizo interfaces limpias, arquitectura modular, estabilidad, documentación y automatización mediante CI/CD.
-- Desarrollo y mantengo proyectos bajo las marcas **Nexora**, **Ghost Nexora** y **Virexa**.
+- I build complete products across **mobile, web, backend, APIs, storage, authentication, automation, and deployment**.
+- My primary mobile stack is **Kotlin, Jetpack Compose, Material 3, Media3, Room, DataStore, and Android services**.
+- I develop full-stack systems with **TypeScript, React, Next.js, Node.js, Supabase, PostgreSQL, and MongoDB**.
+- I work with **Python and Bash** for bots, CLI tools, deployment workflows, VPS automation, CI/CD, and project maintenance.
+- I value modular architecture, clear interfaces, maintainability, documentation, security, and reproducible builds.
+- Some of my current product work is maintained in private repositories, while selected tools and applications remain public.
 
-## En qué estoy trabajando
+## Current Focus
 
-- Aplicaciones Android modernas con **Kotlin, Compose, Material 3, Media3 y servicios en segundo plano**.
-- APIs y paneles web con **Next.js, Node.js, Supabase, PostgreSQL y MongoDB**.
-- Infraestructura de compilación y publicación con **GitHub Actions, Vercel y servidores Linux/VPS**.
-- Automatización con Python, bots de Telegram y herramientas para flujos de desarrollo.
-- Seguridad aplicada, cifrado y herramientas de evaluación exclusivamente para uso autorizado.
+- Native Android products with modern Compose-based interfaces and background services.
+- Full-stack applications, REST APIs, authentication, databases, and deployment infrastructure.
+- Bash and Python tooling for Linux, Ubuntu VPS, Termux, and automated server provisioning.
+- GitHub Actions workflows for validation, builds, testing, releases, and controlled migrations.
+- Security engineering, encryption, diagnostics, and assessment tooling for authorized environments.
+- Maintaining projects under the **Nexora**, **Ghost Nexora**, and **Virexa** brands.
 
-## Proyectos destacados
+## Selected Public Work
 
-| Proyecto | Descripción | Tecnologías principales |
+| Project | Description | Main technologies |
 |---|---|---|
-| [Nexora Player](https://github.com/Gh0stDeveloper/NexoraPlayer) | Reproductor multimedia para Android con audio, video, biblioteca local, reproducción en segundo plano y una interfaz moderna. | Kotlin, Jetpack Compose, Material 3, Media3, Room, DataStore |
-| [Virexa Screen](https://github.com/Gh0stDeveloper/VirexaScreen) | Grabador de pantalla para Android con controles flotantes, historial de grabaciones y servicio persistente. | Kotlin, Jetpack Compose, MediaProjection, Coroutines, DataStore |
-| [Ghost Nexora VPN](https://github.com/Gh0stDeveloper/GhostNexoraVPN) | Gestor Android de perfiles VPN con interfaz TUN, importación y exportación, logs y ejecución en segundo plano. | Kotlin, Compose, VpnService, Hilt, Room, StateFlow |
-| [Tsukasa Yusaki Framework](https://github.com/Gh0stDeveloper/tsukasa-yusaki-framework) | Framework en Python para evaluaciones de seguridad autorizadas, análisis de protocolos y generación de reportes. | Python, HTTP/HTTPS, SMTP, SSL/TLS |
-| [DECODE](https://github.com/Gh0stDeveloper/DECODE) | Herramientas y automatizaciones orientadas al procesamiento y análisis de configuraciones. | Python, automatización, CLI |
+| [Porno-OS / Hex Tunnel Script](https://github.com/Gh0stDeveloper/Porno-OS) | Active contribution to a Bash-based VPS automation system. Current work includes modularization, CI migration workflows, syntax validation, Python build tooling, tests, and secret scanning. | Bash, Python, GitHub Actions, Linux, VPS automation |
+| [Virexa Screen](https://github.com/Gh0stDeveloper/VirexaScreen) | Native Android screen recorder with floating controls, recording management, foreground services, and a Compose-based interface. | Kotlin, Jetpack Compose, MediaProjection, Coroutines, DataStore |
+| [Ghost Nexora VPN](https://github.com/Gh0stDeveloper/GhostNexoraVPN) | Android VPN profile manager with TUN integration, import/export workflows, logs, persistent services, and reactive state management. | Kotlin, Compose, VpnService, Hilt, Room, StateFlow |
+| [Tsukasa Yusaki Security Framework](https://github.com/Gh0stDeveloper/tsukasa-yusaki-framework) | Python framework for authorized security assessments, protocol analysis, certificate validation, and structured reporting. | Python, HTTP/HTTPS, SMTP, SSL/TLS |
+| [DECODE](https://github.com/Gh0stDeveloper/DECODE) | Collection of Python utilities and automation workflows for processing and analyzing structured configuration data. | Python, CLI, automation |
 
-## Stack tecnológico
+## Open-Source Contribution
 
-### Android y móvil
+I am currently contributing to the `Porno-OS` working repository, which is based on the **Hex Tunnel Script** project maintained by **JotchuaDevz**.
+
+My recent contribution work includes:
+
+- introducing a controlled modular migration workflow;
+- coordinating generated source changes through GitHub Actions;
+- validating Bash entry points and generated modules with `bash -n`;
+- integrating Python build checks and unit tests;
+- adding secret-scanning steps before generated changes are committed;
+- improving the migration path for legacy TLS-related material;
+- preparing the installer for a more maintainable modular architecture.
+
+## Technology Stack
+
+### Android & Mobile
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -52,7 +68,7 @@ Desarrollador independiente de México enfocado en crear aplicaciones Android na
 ![Material Design](https://img.shields.io/badge/Material%203-757575?style=flat-square&logo=materialdesign&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
-### Frontend y full stack
+### Frontend & Full Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -61,58 +77,68 @@ Desarrollador independiente de México enfocado en crear aplicaciones Android na
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Backend, datos y automatización
+### Backend, Data & Automation
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Infraestructura y herramientas
+### Infrastructure & Tooling
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
-## Forma de trabajo
+## Engineering Approach
 
 ```text
-Producto completo   -> Android, web, API y servicios
-Arquitectura         -> MVVM, repositorios, módulos y separación de responsabilidades
-Calidad              -> revisión de errores, documentación y mantenimiento continuo
-Automatización       -> builds, pruebas y releases mediante GitHub Actions
-Despliegue           -> Vercel, Railway, Linux, Ubuntu VPS y Termux
-Diseño               -> interfaces modernas, minimalistas y orientadas a producto
+Product scope       -> Android, web, APIs, databases, automation, and deployment
+Architecture        -> Modular systems, MVVM, repositories, and clear boundaries
+Automation          -> Builds, validation, tests, releases, and migration workflows
+Infrastructure      -> Vercel, Railway, Linux, Ubuntu VPS, Docker, and Termux
+Quality             -> Error analysis, documentation, maintainability, and security checks
+Design              -> Modern, minimal, responsive, and product-focused interfaces
+Security            -> Authorized use, least privilege, validation, and secret protection
 ```
 
-## Estadísticas de GitHub
+## GitHub Activity
+
+The previous statistics provider was removed because its cards were not loading reliably. This section uses lighter GitHub-backed Shields badges instead.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gh0stDeveloper&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub de Ghost Developer" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gh0stDeveloper&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Lenguajes principales de Ghost Developer" />
+![GitHub followers](https://img.shields.io/github/followers/Gh0stDeveloper?style=for-the-badge&logo=github&label=Followers&color=181717)
+![Porno-OS activity](https://img.shields.io/github/last-commit/Gh0stDeveloper/Porno-OS?style=for-the-badge&logo=github&label=Porno--OS%20Activity&color=181717)
+![Virexa Screen activity](https://img.shields.io/github/last-commit/Gh0stDeveloper/VirexaScreen?style=for-the-badge&logo=github&label=Virexa%20Screen&color=181717)
+![Ghost Nexora VPN activity](https://img.shields.io/github/last-commit/Gh0stDeveloper/GhostNexoraVPN?style=for-the-badge&logo=github&label=Ghost%20Nexora%20VPN&color=181717)
 
 </div>
 
-## Contacto
+> GitHub contribution graphs and repository activity remain available directly on the profile and repository pages without depending on an additional statistics renderer.
+
+## Contact
 
 - GitHub: [@Gh0stDeveloper](https://github.com/Gh0stDeveloper)
 - Telegram: [@Gh0stDeveloper](https://t.me/Gh0stDeveloper)
-- Canal de Telegram: [@GhostDeve](https://t.me/GhostDeve)
-- Comunidad: [@CodeBreakersHub](https://t.me/CodeBreakersHub)
-- Correo profesional: [ghostnexora@gmail.com](mailto:ghostnexora@gmail.com)
+- Telegram channel: [@GhostDeve](https://t.me/GhostDeve)
+- Community: [@CodeBreakersHub](https://t.me/CodeBreakersHub)
+- Professional email: [ghostnexora@gmail.com](mailto:ghostnexora@gmail.com)
 
 ---
 
 <div align="center">
 
-**Construyendo productos útiles, una versión a la vez.**
+**Building useful products, improving them one version at a time.**
 
-Última actualización: julio de 2026
+Last updated: July 2026
 
 </div>
