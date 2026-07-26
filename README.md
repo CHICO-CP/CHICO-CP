@@ -1,100 +1,118 @@
-<p align="center">
- <img src="https://github.com/Gh0stDeveloper.png" width="150" height="150" style="border-radius: 50%;" align="center" alt="Ghost Developer" />
- <h2 align="center">🚀 Ghost Developer - Full Stack Developer</h2>
- <p align="center">Developer specialized in innovative solutions with modern technologies</p>
-</p>
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ghost_Developer-181717?style=for-the-badge&logo=github)](https://github.com/CHICO-CP)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/GhostDeve)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/CodeBreakersHub)
-[![Telegram Profile](https://img.shields.io/badge/Telegram-Profile-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Gh0stDeveloper)
+<img src="https://github.com/Gh0stDeveloper.png" width="150" alt="Ghost Developer" />
 
-</div>
+# Ghost Developer
 
-## 👨‍💻 About Me
+### Pedro Avendaño · Full Stack & Android Developer
 
-Full stack developer with experience in multiple technologies and frameworks. Specialized in creating scalable and efficient solutions for diverse projects.
+Desarrollador independiente de México enfocado en crear aplicaciones Android nativas, plataformas full stack, APIs, automatizaciones y herramientas técnicas con arquitecturas mantenibles.
 
-## 🛠️ Technologies & Skills
-
-### 📊 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-
-### 🐍 Backend & Servers
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-
-### 🌐 Frontend & Web
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-
-### 📱 Mobile Development
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
-
-### 🤖 Automation & APIs
-![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)
-![API Development](https://img.shields.io/badge/API_Development-FF6B6B?logo=json&logoColor=white&style=for-the-badge)
-
-### ⚙️ Development Tools
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-
-## 📈 Featured Projects
-
-### 🔐 Security Frameworks
-- **Tsukasa Yusaki Security Framework** - Professional ethical pentesting tool
-- **Automation Bots** - Custom Telegram bot solutions
-- **RESTful APIs** - Scalable backend services development
-
-### 🌐 Web Development
-- **React Applications** - Modern and responsive interfaces
-- **MongoDB Systems** - Optimized NoSQL databases
-- **Full Stack Platforms** - Complete frontend + backend solutions
-
-### 📱 Mobile Applications
-- **Kotlin Android Apps** - Native Android development
-- **Hybrid Applications** - Cross-platform solutions
-
-## 📊 GitHub Statistics
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Gh0stDeveloper&show_icons=true&theme=radical" alt="Ghost Developer Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gh0stDeveloperompact&theme=radical" alt="Top Languages" />
-</p>
-
-## 🎯 Current Focus
-
-- **🔐 Ethical security tools development**
-- **🤖 Advanced Telegram bots creation**
-- **🌐 Web applications with React and MongoDB**
-- **📱 Native apps with Kotlin for Android**
-- **🚀 APIs and microservices optimization**
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Gh0stDeveloper-181717?style=flat-square&logo=github)](https://github.com/Gh0stDeveloper)
-[![Telegram Channel](https://img.shields.io/badge/Channel-@GhostDeve-26A5E4?style=flat-square&logo=telegram)](https://t.me/GhostDeve)
-[![Telegram Group](https://img.shields.io/badge/Group-@CodeBreakersHub-26A5E4?style=flat-square&logo=telegram)](https://t.me/CodeBreakersHub)
-[![Personal Telegram](https://img.shields.io/badge/Personal-@Gh0stDeveloper-26A5E4?style=flat-square&logo=telegram)](https://t.me/Gh0stDeveloper)
+[![GitHub](https://img.shields.io/badge/GitHub-@Gh0stDeveloper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gh0stDeveloper)
+[![Telegram](https://img.shields.io/badge/Telegram-@Gh0stDeveloper-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gh0stDeveloper)
+[![Email](https://img.shields.io/badge/Email-ghostnexora%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghostnexora@gmail.com)
 
 </div>
 
 ---
 
+## Sobre mí
+
+- Desarrollo productos completos: aplicación, backend, API, almacenamiento, autenticación, automatización y despliegue.
+- Mi trabajo principal está centrado en **Android con Kotlin y Jetpack Compose**, además de plataformas web modernas con **TypeScript, React, Next.js y Node.js**.
+- Construyo experiencias multimedia, herramientas de productividad, sistemas de actualización, bots de Telegram y utilidades de seguridad para entornos autorizados.
+- Priorizo interfaces limpias, arquitectura modular, estabilidad, documentación y automatización mediante CI/CD.
+- Desarrollo y mantengo proyectos bajo las marcas **Nexora**, **Ghost Nexora** y **Virexa**.
+
+## En qué estoy trabajando
+
+- Aplicaciones Android modernas con **Kotlin, Compose, Material 3, Media3 y servicios en segundo plano**.
+- APIs y paneles web con **Next.js, Node.js, Supabase, PostgreSQL y MongoDB**.
+- Infraestructura de compilación y publicación con **GitHub Actions, Vercel y servidores Linux/VPS**.
+- Automatización con Python, bots de Telegram y herramientas para flujos de desarrollo.
+- Seguridad aplicada, cifrado y herramientas de evaluación exclusivamente para uso autorizado.
+
+## Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías principales |
+|---|---|---|
+| [Nexora Player](https://github.com/Gh0stDeveloper/NexoraPlayer) | Reproductor multimedia para Android con audio, video, biblioteca local, reproducción en segundo plano y una interfaz moderna. | Kotlin, Jetpack Compose, Material 3, Media3, Room, DataStore |
+| [Virexa Screen](https://github.com/Gh0stDeveloper/VirexaScreen) | Grabador de pantalla para Android con controles flotantes, historial de grabaciones y servicio persistente. | Kotlin, Jetpack Compose, MediaProjection, Coroutines, DataStore |
+| [Ghost Nexora VPN](https://github.com/Gh0stDeveloper/GhostNexoraVPN) | Gestor Android de perfiles VPN con interfaz TUN, importación y exportación, logs y ejecución en segundo plano. | Kotlin, Compose, VpnService, Hilt, Room, StateFlow |
+| [Tsukasa Yusaki Framework](https://github.com/Gh0stDeveloper/tsukasa-yusaki-framework) | Framework en Python para evaluaciones de seguridad autorizadas, análisis de protocolos y generación de reportes. | Python, HTTP/HTTPS, SMTP, SSL/TLS |
+| [DECODE](https://github.com/Gh0stDeveloper/DECODE) | Herramientas y automatizaciones orientadas al procesamiento y análisis de configuraciones. | Python, automatización, CLI |
+
+## Stack tecnológico
+
+### Android y móvil
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%203-757575?style=flat-square&logo=materialdesign&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+
+### Frontend y full stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend, datos y automatización
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Infraestructura y herramientas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
+## Forma de trabajo
+
+```text
+Producto completo   -> Android, web, API y servicios
+Arquitectura         -> MVVM, repositorios, módulos y separación de responsabilidades
+Calidad              -> revisión de errores, documentación y mantenimiento continuo
+Automatización       -> builds, pruebas y releases mediante GitHub Actions
+Despliegue           -> Vercel, Railway, Linux, Ubuntu VPS y Termux
+Diseño               -> interfaces modernas, minimalistas y orientadas a producto
+```
+
+## Estadísticas de GitHub
+
 <div align="center">
 
-### **🚀 Innovating with code, creating future solutions**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gh0stDeveloper&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub de Ghost Developer" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gh0stDeveloper&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Lenguajes principales de Ghost Developer" />
 
-*"Technology is nothing. What's important is that you have faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them." - Steve Jobs*
+</div>
+
+## Contacto
+
+- GitHub: [@Gh0stDeveloper](https://github.com/Gh0stDeveloper)
+- Telegram: [@Gh0stDeveloper](https://t.me/Gh0stDeveloper)
+- Canal de Telegram: [@GhostDeve](https://t.me/GhostDeve)
+- Comunidad: [@CodeBreakersHub](https://t.me/CodeBreakersHub)
+- Correo profesional: [ghostnexora@gmail.com](mailto:ghostnexora@gmail.com)
+
+---
+
+<div align="center">
+
+**Construyendo productos útiles, una versión a la vez.**
+
+Última actualización: julio de 2026
 
 </div>
