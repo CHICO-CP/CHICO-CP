@@ -110,20 +110,68 @@ Design              -> Modern, minimal, responsive, and product-focused interfac
 Security            -> Authorized use, least privilege, validation, and secret protection
 ```
 
-## GitHub Activity
+## GitHub Analytics
 
-The previous statistics provider was removed because its cards were not loading reliably. This section uses lighter GitHub-backed Shields badges instead.
+### 🏆 GitHub Trophies
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/Gh0stDeveloper?style=for-the-badge&logo=github&label=Followers&color=181717)
-![Porno-OS activity](https://img.shields.io/github/last-commit/Gh0stDeveloper/Porno-OS?style=for-the-badge&logo=github&label=Porno--OS%20Activity&color=181717)
-![Virexa Screen activity](https://img.shields.io/github/last-commit/Gh0stDeveloper/VirexaScreen?style=for-the-badge&logo=github&label=Virexa%20Screen&color=181717)
-![Ghost Nexora VPN activity](https://img.shields.io/github/last-commit/Gh0stDeveloper/GhostNexoraVPN?style=for-the-badge&logo=github&label=Ghost%20Nexora%20VPN&color=181717)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gh0stDeveloper&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15)
 
 </div>
 
-> GitHub contribution graphs and repository activity remain available directly on the profile and repository pages without depending on an additional statistics renderer.
+### 📊 Profile Statistics
+
+<div align="center">
+
+![Ghost Developer GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gh0stDeveloper&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gh0stDeveloper&theme=tokyonight)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gh0stDeveloper&theme=tokyonight" alt="Repositories per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gh0stDeveloper&theme=tokyonight" alt="Most committed languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gh0stDeveloper&theme=tokyonight" alt="GitHub profile statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gh0stDeveloper&theme=tokyonight&utcOffset=-6" alt="Productive time" />
+
+</div>
+
+### 📅 Isometric Commit Calendar
+
+<div align="center">
+
+![Ghost Developer Isometric Commit Calendar](./metrics.isocalendar.purple.svg)
+
+</div>
+
+The calendar is generated automatically through GitHub Actions and refreshed every day.
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![Ghost Developer's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gh0stDeveloper&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+
+![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+### 🔝 Top Contributed Repositories
+
+<div align="center">
+
+![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=Gh0stDeveloper&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+---
 
 ## Contact
 
