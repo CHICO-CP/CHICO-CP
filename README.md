@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/CHICO-CP.png" width="150" height="150" style="border-radius: 50%;" align="center" alt="Ghost Developer" />
+ <img src="https://github.com/Gh0stDeveloper.png" width="150" height="150" style="border-radius: 50%;" align="center" alt="Ghost Developer" />
  <h2 align="center">🚀 Ghost Developer - Full Stack Developer</h2>
  <p align="center">Developer specialized in innovative solutions with modern technologies</p>
 </p>
@@ -66,8 +66,8 @@ Full stack developer with experience in multiple technologies and frameworks. Sp
 ## 📊 GitHub Statistics
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=CHICO-CP&show_icons=true&theme=radical" alt="Ghost Developer Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHICO-CP&layout=compact&theme=radical" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Gh0stDeveloper&show_icons=true&theme=radical" alt="Ghost Developer Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gh0stDeveloperompact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🎯 Current Focus
@@ -82,7 +82,7 @@ Full stack developer with experience in multiple technologies and frameworks. Sp
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-CHICO--CP-181717?style=flat-square&logo=github)](https://github.com/CHICO-CP)
+[![GitHub](https://img.shields.io/badge/GitHub-Gh0stDeveloper-181717?style=flat-square&logo=github)](https://github.com/Gh0stDeveloper)
 [![Telegram Channel](https://img.shields.io/badge/Channel-@GhostDeve-26A5E4?style=flat-square&logo=telegram)](https://t.me/GhostDeve)
 [![Telegram Group](https://img.shields.io/badge/Group-@CodeBreakersHub-26A5E4?style=flat-square&logo=telegram)](https://t.me/CodeBreakersHub)
 [![Personal Telegram](https://img.shields.io/badge/Personal-@Gh0stDeveloper-26A5E4?style=flat-square&logo=telegram)](https://t.me/Gh0stDeveloper)
